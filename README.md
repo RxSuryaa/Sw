@@ -5,10 +5,10 @@
 Master:
 
  docker pull nginx
-   62  docker images
-   63  mkdir demo
-   64  cd demo/
-   65  nano index.html
+   -  docker images
+-  mkdir demo
+   -  cd demo/
+  -  nano index.html
    66  cd
    67  ls
    68  mkdir tinku
